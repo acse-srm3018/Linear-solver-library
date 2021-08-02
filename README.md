@@ -1,7 +1,4 @@
-# group-project-a
-group-project-a created by GitHub Classroom
-
-# ACSE-5 Course Project Repository
+# C++ Linear Solver library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -11,8 +8,7 @@ group-project-a created by GitHub Classroom
 
 # Basic Information
 
-Authors: [Hanxiao Zhang, 
-         Giles Matthews,
+Authors: [
          Raha Moosavi
          ]
 
@@ -21,7 +17,6 @@ This project aims to develop an efficient C++ solver for linear systems, or the 
 An overview of the files is provided below.
 
 
-- `report/` contains report in pdf format.
 - `src/` contains the header and source files for the library Matrix.
 - `.gitignore` is the file specifying which files should be ignored in Git.
 - `LICENSE.txt` is the MIT license.
