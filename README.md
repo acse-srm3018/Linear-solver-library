@@ -8,14 +8,9 @@
 
 # Basic Information
 
-Authors: [
-         Raha Moosavi
-         ]
-
 This project aims to develop an efficient C++ solver for linear systems, or the Ax = b problems. 
 
 An overview of the files is provided below.
-
 
 - `src/` contains the header and source files for the library Matrix.
 - `.gitignore` is the file specifying which files should be ignored in Git.
@@ -38,7 +33,7 @@ For many methods or algorithms the solution of linear systems such as this also 
 Hence, it is vitally important for us to understand the methods available to us to solve this problem accurately and efficiently.
 
 ## How to Use Library
-A demonstration of the solvers can be run by compiling and running the main_run.cpp file in the src directory. This script generates example linear systems and passes them into the different solvers. 
+A demonstration of the solvers can be run by compiling and running the main_run.cpp file in the src directory. This script generates example linear systems and passes them into the different linear solvers. 
 
 ## Summary of Solver Methods
 Solvers for systems stored in a dense format are methods in the Matrix class. Input parameters in brackets.
