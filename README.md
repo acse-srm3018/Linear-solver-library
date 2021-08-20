@@ -30,7 +30,7 @@ Often, but not always, we will be considering a square problem, i.e. where  𝑚
 
 For many methods or algorithms the solution of linear systems such as this also turns out to be the most costly component of that method. And also where sensible vs stupid algorithm choices can lead to terrible run times and even instability (e.g. not being able to obtain a solution at all).
 
-Hence, it is vitally important for us to understand the methods available to us to solve this problem accurately and efficiently.
+Hence, it is vitally important for us to understand the methods are available to us to solve this problem accurately and efficiently.
 
 ## How to Use Library
 A demonstration of the solvers can be run by compiling and running the main_run.cpp file in the src directory. This script generates example linear systems and passes them into the different linear solvers. 
